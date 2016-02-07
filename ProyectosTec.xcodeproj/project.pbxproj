@@ -47,6 +47,7 @@
 		2329F5641C66C4C900F8270E /* ProyectosTecUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProyectosTecUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2329F5681C66C4C900F8270E /* ProyectosTecUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProyectosTecUITests.swift; sourceTree = "<group>"; };
 		2329F56A1C66C4C900F8270E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		23AD3CDE1C66C689004A7072 /* miniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = miniReto.playground; path = ../miniReto.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		2329F53C1C66C4C900F8270E = {
 			isa = PBXGroup;
 			children = (
+				23AD3CDE1C66C689004A7072 /* miniReto.playground */,
 				2329F5471C66C4C900F8270E /* ProyectosTec */,
 				2329F55C1C66C4C900F8270E /* ProyectosTecTests */,
 				2329F5671C66C4C900F8270E /* ProyectosTecUITests */,
@@ -480,6 +482,7 @@
 				2329F56F1C66C4C900F8270E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2329F5701C66C4C900F8270E /* Build configuration list for PBXNativeTarget "ProyectosTecTests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +491,7 @@
 				2329F5721C66C4C900F8270E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2329F5731C66C4C900F8270E /* Build configuration list for PBXNativeTarget "ProyectosTecUITests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +500,7 @@
 				2329F5751C66C4C900F8270E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
